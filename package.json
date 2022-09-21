@@ -25,12 +25,8 @@
     "report": "madrun report"
   },
   "dependencies": {
-    "cosmiconfig": "^7.0.0",
-    "deepmerge": "^4.2.2",
     "execa": "^6.1.0",
     "fullstore": "^3.0.0",
-    "stylelint": "^14.1.0",
-    "stylelint-config-standard": "^28.0.0",
     "try-catch": "^3.0.1",
     "try-to-catch": "^3.0.1"
   },
