@@ -1,4 +1,2 @@
-[default.extend-words]
-taget = "taget"
-stting = "stting"
-
+[files]
+extend-exclude = ["test", "*.spec.*]
