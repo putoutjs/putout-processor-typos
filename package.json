@@ -49,6 +49,7 @@
     "madrun": "^9.0.0",
     "nodemon": "^2.0.1",
     "putout": "*",
+    "putout-processor-typos": "^1.0.0",
     "supertape": "^8.1.0"
   },
   "peerDependencies": {
